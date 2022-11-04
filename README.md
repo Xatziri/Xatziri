@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xatziri
 - 👀 I’m interested in NLP models
 - 🌱 I’m currently learning Machine Learning/ Deep Learning/ Lisp
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
